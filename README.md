@@ -8,20 +8,20 @@ Login Validation
 
 Register Validation
 
-![Register Validation](https://i.imgur.com/PQYRhQx.png))
+![Register Validation](https://i.imgur.com/PQYRhQx.png)
 
 Dashboard
 
 ![Dashboard](https://i.imgur.com/gWFQN9A.png)
 
-Create Review
+Create Course
 
 ![Create Review](https://i.imgur.com/V5PVNP2.png)
 
-View Review
+View Course
 
 ![View Tv Show Review](https://i.imgur.com/Pe0jlp0.png)
 
-Edit Review
+Edit Course
 
 ![Edit Page](https://i.imgur.com/oQngQcg.png)
